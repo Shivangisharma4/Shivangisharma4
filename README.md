@@ -35,7 +35,7 @@
 
 <div align="center">
 <sub>
-I enjoy making beautiful, meaningful and fun things — whether it's through code or words.<br/>
+I enjoy making beautiful, meaningful and fun things - whether it's through code or words.<br/>
 CS Undergrad @ RGPV University · B.Tech '27 · Open to opportunities
 </sub>
 </div>
