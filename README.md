@@ -274,5 +274,3 @@ CS Undergrad @ RGPV University · B.Tech '27 · Open to opportunities
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Shivangisharma4&style=flat&color=18181b&label=views&abbreviated=true" height="18"/>
 </div>
-
-deecghyddvhgff
