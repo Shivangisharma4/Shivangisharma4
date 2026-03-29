@@ -12,7 +12,7 @@
 </div>
 
 ### 01. ABOUT
-I build high-performance web tools and contribute to the AI ecosystem. Currently engineering **Aegis AI** (web performance profiler) and preparing for **GATE CS 2027**. Based in Bhopal, India.
+I build high-performance web tools and contribute to the AI ecosystem. Based in Bhopal, India.
 
 ### 02. STACK
 **Languages** &nbsp; `JavaScript` `TypeScript` `Python` `Java` `Solidity`  
