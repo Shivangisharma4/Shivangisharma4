@@ -12,7 +12,7 @@
 </div>
 
 ### 01. ABOUT
-I build high-performance web tools and contribute to the AI ecosystem. Based in Bhopal, India.
+I build high-performance web tools and contribute to the AI ecosystem. Based in India.
 
 ### 02. STACK
 **Languages** &nbsp; `JavaScript` `TypeScript` `Python` `Java` `Solidity`  
