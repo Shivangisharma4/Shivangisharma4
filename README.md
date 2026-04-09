@@ -26,3 +26,4 @@ I build high-performance web tools and contribute to the AI ecosystem. Based in 
 * **Rocket.Chat** — Communication platform.
 
 
+connect with me!
