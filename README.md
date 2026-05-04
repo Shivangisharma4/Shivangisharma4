@@ -21,6 +21,6 @@ I build high-performance web tools and contribute to the AI ecosystem. Based in 
 **DevOps** &nbsp;&nbsp;&nbsp;&nbsp; `Git` `Docker` `LangChain` `Vercel`
 
 ### 03. OPEN SOURCE
-* **LangChain / LangGraph** — Contribution to AI orchestration.
-* **Cal.com** — Scheduling infrastructure.
-* **Rocket.Chat** — Communication platform.
+* **LangChain / LangGraph** - Contribution to AI orchestration.
+* **Cal.com** - Scheduling infrastructure.
+* **Rocket.Chat** - Communication platform.
