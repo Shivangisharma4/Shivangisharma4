@@ -25,4 +25,4 @@ I build high-performance web tools and contribute to the AI ecosystem. Based in 
 * **Cal.com** - Scheduling infrastructure.
 * **Rocket.Chat** - Communication platform.
 
-let's chat :)
+let's chat :))
