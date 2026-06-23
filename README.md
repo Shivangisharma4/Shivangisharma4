@@ -22,7 +22,5 @@ I build high-performance web tools and contribute to the AI ecosystem. Based in 
 
 ### 03. OPEN SOURCE
 * **LangChain / LangGraph** - Contribution to AI orchestration.
-* **Cal.com** - Scheduling infrastructure.
-* **Rocket.Chat** - Communication platform.
 
 let's chat :))
